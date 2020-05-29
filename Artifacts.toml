@@ -1,0 +1,89 @@
+[[wget]]
+arch = "x86_64"
+git-tree-sha1 = "6452f136d427e2f02d38950c21b46dce00970c8a"
+libc = "musl"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "729285d122de25047a8394af4bb6623de90f85dee142ed470d688be4252466c9"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.x86_64-linux-musl.tar.gz"
+[[wget]]
+arch = "powerpc64le"
+git-tree-sha1 = "8105f08ca43f62e0d4602c061d678e4827e772ae"
+libc = "glibc"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "9dedeebf69f3785a2420918a91bf5011081fafd6d338bfed6fa48635bcd4f316"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.powerpc64le-linux-gnu.tar.gz"
+[[wget]]
+arch = "x86_64"
+git-tree-sha1 = "32ecbe704871d9fc56ac083d485587b0184f8d36"
+libc = "glibc"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "83e6314a426aa402f918c23064abd903d07836fadf2aaa33ae2429c0678e3919"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.x86_64-linux-gnu.tar.gz"
+[[wget]]
+arch = "armv7l"
+git-tree-sha1 = "f08959d103df0b3d7b7bb9a3dbe998a0d7a748ce"
+libc = "glibc"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "ba066c040e45aeac19e23fc902a7c1a79a4807f4ece1c7393b81f7671448c963"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.armv7l-linux-gnueabihf.tar.gz"
+[[wget]]
+arch = "aarch64"
+git-tree-sha1 = "572ecaa757ce410943e92eadcd3d145b54f31395"
+libc = "glibc"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "7a2f62d0bfa3a4b51bd593a1f42035cb50e234e6a1e0e98f42f35625a9797852"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.aarch64-linux-gnu.tar.gz"
+[[wget]]
+arch = "armv7l"
+git-tree-sha1 = "613fab254e87e9b42cb4f6c1e787adb56d2934ec"
+libc = "musl"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "cdb2f9b61198ff538c87c47d635f1b3de40cfbaa9e27c325451715b333a780a9"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.armv7l-linux-musleabihf.tar.gz"
+[[wget]]
+arch = "i686"
+git-tree-sha1 = "17a75f38a64c98820a7a1be8216a125ee5137aaa"
+libc = "glibc"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "21fa26c536ca4fdca37cdc3a2fdf8aefa62e5b1db4e89f3fcc098c4e0f968465"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.i686-linux-gnu.tar.gz"
+[[wget]]
+arch = "x86_64"
+git-tree-sha1 = "b16c06939ddbeb4293262a67d6a3d64d09698852"
+os = "macos"
+
+    [[wget.download]]
+    sha256 = "4f2e638c630386f135b267f211166399cb6085a92fb8152b7d738d494dc82b45"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.x86_64-apple-darwin14.tar.gz"
+[[wget]]
+arch = "i686"
+git-tree-sha1 = "30bc09392c378c672c66d7f8fb317695c58393f7"
+libc = "musl"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "40b641f715603ba683403435c1f71a4231aa459a72fb788cb32aa325d271dab4"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.i686-linux-musl.tar.gz"
+[[wget]]
+arch = "aarch64"
+git-tree-sha1 = "a03258cd97840433adf85f851e3ee55bcf35af1f"
+libc = "musl"
+os = "linux"
+
+    [[wget.download]]
+    sha256 = "27faf885b05d2c01963452ef6954f2a6395dd775c5761035f87716cfe4392e99"
+    url = "https://github.com/JuliaBinaryWrappers/wget_jll.jl/releases/download/wget-v1.20.3+0/wget.v1.20.3.aarch64-linux-musl.tar.gz"

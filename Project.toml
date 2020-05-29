@@ -1,0 +1,11 @@
+name = "wget_jll"
+uuid = "25883557-5102-5516-a11b-f84f27e871d7"
+version = "1.20.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+GnuTLS_jll = "0951126a-58fd-58f1-b5b3-b08c7c4a876d"
+
+[compat]
+julia = "1.0"
